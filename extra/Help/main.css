@@ -1,0 +1,44 @@
+img {
+ image-rendering: pixelated;
+ text-align:center;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+h1{
+ font-family: Sans-serif;
+ font-size: 40px;
+ text-align:center;
+}
+
+h2{
+ font-family: Sans-serif;
+ font-size: 35px;
+ text-align:center;
+}
+
+h3{
+ text-align:center;
+ font-family: courier;	
+ text-align:center;
+}
+
+h4{
+ font-family: courier;
+ color: #adf700;
+ text-align:center;
+}
+
+h5{
+ font-family: courier;
+ text-align:center;
+ font-size: 15px;  
+}
+
+table, th, td {
+ border: 3px solid black;
+ font-family: courier;
+ margin-left: auto;
+ margin-right: auto;
+}
